@@ -19,8 +19,7 @@ print(f"After replacing two players {sportspersons}\n")
 sportspersons.sort()
 print(f"After sorting the players alphabetically {sportspersons}\n")
 
-#Second Program
-
+# Second Program
 x=18
 y=45
 even_nums=[]
